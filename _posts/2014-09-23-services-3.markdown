@@ -5,5 +5,5 @@ category: Services
 title: Reinforcement Learning:DQN
 description: |
 ---
-Use a <font color=gray size=5>gray</font>deep neural network as a network of Q values:<br>$$Q\left ( s,a,w \right )\approx Q^{\pi}\left ( s,a \right )$$
-Loss Function:<br>$$$$
+Use a deep neural network as a network of Q values:<br>$$Q\left ( s,a,w \right )\approx Q^{\pi}\left ( s,a \right )$$
+Loss Function:<br>$$L\left ( w \right )=E\left [ \left ( r+\gamma \displaystyle \max_{a'}\left ( {s'},{a'},{w} \right )-Q\left ( s,a,w \right )  \right ) ^2\right ]$$
