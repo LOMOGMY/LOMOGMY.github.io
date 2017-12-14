@@ -2,7 +2,7 @@
 layout: default
 img: cnn.png
 category: Services
-title: Deep Learning<br>CNN
+title: Deep Learning:<br>CNN
 description: |
 ---
   The convolution operation on the four channels has two convolution nuclei and two channels.
