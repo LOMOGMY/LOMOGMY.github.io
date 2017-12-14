@@ -1,8 +1,9 @@
 ---
 layout: default
-img: phones.png
+img: tensor.png
 category: Services
-title: Reinforcement Learning:<br>DQN
+title: Reinforcement Learning:DQN
 description: |
 ---
-Use a deep neural network as a network of Q values:<br>$$Q\left ( s,a,w \right )\approx Q^{\pi}\left ( s,a \right )$$
+Use a <font color=gray size=5>gray</font>deep neural network as a network of Q values:<br>$$Q\left ( s,a,w \right )\approx Q^{\pi}\left ( s,a \right )$$
+Loss Function:<br>$$$$
