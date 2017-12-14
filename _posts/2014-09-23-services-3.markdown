@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Reinforcement Learning:<br>DQN
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Use a deep neural network as a network of Q values:<br>$$Q\left ( s,a,w \right )\approx Q^{\pi}\left ( s,a \right )$$
