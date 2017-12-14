@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dqn.png
+img: dqn2.png
 category: Services
 title: Reinforcement Learning:DQN
 description: |
