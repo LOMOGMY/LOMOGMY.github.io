@@ -7,3 +7,4 @@ description: |
 ---
 Use a deep neural network as a network of Q values:<br>$$Q\left ( s,a,w \right )\approx Q^{\pi}\left ( s,a \right )$$
 <br>Loss Function:<br>$$L\left ( w \right )=E\left [ \left ( r+\gamma \displaystyle \max_{a'}\left ( {s'},{a'},{w} \right )-Q\left ( s,a,w \right )  \right ) ^2\right ]$$
+<be>SGD:$$\frac{\partial\displaystyle L(w)}{\partial\displaystyle w}=E\left [ \left ( r+\gamma \displaystyle \max_{a'}\left ( {s'},{a'},{w} \right )-Q\left ( s,a,w \right ) \right ) \frac{\partial\displaystyle Q(s,a,w)}{\partial\displaystyle w}\right]$$
