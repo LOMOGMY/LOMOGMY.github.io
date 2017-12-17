@@ -2,7 +2,7 @@
 layout: default
 img: dqn3.png
 category: Services
-title: Reinforcement Learning:DQN
+title: Reinforcement Learning:[DQN](https://zhuanlan.zhihu.com/p/25771039)
 description: |
 ---
 Use a deep neural network as a network of Q values:<br>$$Q\left ( s,a,w \right )\approx Q^{\pi}\left ( s,a \right )$$
