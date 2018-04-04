@@ -1,4 +1,4 @@
-!HomePage[gmy.space](https://gmy.space/)
+HomePage: [gmy.space](https://gmy.space/)
 ====
 # Landing Page Jekyll theme
 
